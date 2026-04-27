@@ -1,0 +1,10 @@
+.env
+snapshots/
+known_faces/
+unknown_faces/
+venv/
+face_db.pkl
+*.pt
+__pycache__/
+*.pyc
+*.log
